@@ -1,0 +1,4 @@
+第1次ping操作
+第2次ping操作
+第3次ping操作
+第4次ping操作
